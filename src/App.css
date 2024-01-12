@@ -93,7 +93,7 @@ h2, label {
   color: white;
   font-family: 'Raleway', sans-serif;
   font-style: normal;
-  color: #ffffffff;
+  color: rgb(2, 2, 2);
 }
 
 footer {
@@ -102,8 +102,10 @@ footer {
 }
 
 footer button {
-  font-size: xx-large;
-  
+  margin-top: 40px;
+  padding: 20px;
+  font-size: 20px;
+  background-color: #A5261D;
   display: block;
   /* align to right */
   margin-left: auto;
@@ -132,6 +134,7 @@ section ul {
 
 #screenPizza footer button {  
   /* align to left */
+  
   margin-left: 0;
   margin-right: auto;
 }
@@ -144,8 +147,8 @@ section ul {
 
 #img-client {
   padding-top: 12px;
-  width: 152px;
-  height: 200px;
+  width: 162px;
+  height: 150px;
   }
 
 #imagens img {
